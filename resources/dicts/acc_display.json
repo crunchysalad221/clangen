@@ -418,5 +418,385 @@
     "default": "indigo nylon collar",
     "plural": "indigo nylon collars",
     "singular": "indigo nylon collar"
+  },
+  "SUNFLOWER": {
+    "default": "sunflower",
+    "plural": "sunflowers",
+    "singular": "sunflower"
+  },
+  "MOONFLOWER": {
+    "default": "moonflower",
+    "plural": "moonflowers",
+    "singular": "moonflower"
+  },
+  "STARFLOWER": {
+    "default": "starflower",
+    "plural": "starflowers",
+    "singular": "starflower"
+  },
+  "LOTUS": {
+    "default": "lotus",
+    "plural": "lotus flowers",
+    "singular": "lotus"
+  },
+  "CHERRYBLOSSOM": {
+    "default": "cherry blossom",
+    "plural": "cherry blossoms",
+    "singular": "cherry blossom"
+  },
+  "PERIWINKLE": {
+    "default": "periwinkle",
+    "plural": "periwinkle flowers",
+    "singular": "periwinkle"
+  },
+  "VIOLET": {
+    "default": "violet",
+    "plural": "violet flowers",
+    "singular": "violet"
+  },
+  "CORNFLOWER": {
+    "default": "cornflower",
+    "plural": "cornflowers",
+    "singular": "cornflower"
+  },
+  "ANEMONE": {
+    "default": "anemone",
+    "plural": "anemones",
+    "singular": "anemone"
+  },
+  "JASMINE": {
+    "default": "jasmine",
+    "plural": "jasmines",
+    "singular": "jasmine"
+  },
+  "TRANS": {
+    "default": "transgender flag",
+    "plural": "transgender flags",
+    "singular": "transgender flag"
+  },
+  "ENBY": {
+    "default": "non binary flag",
+    "plural": "non binary flags",
+    "singular": "non binary flag"
+  },
+  "GENDERFLUID": {
+    "default": "genderfluid flag",
+    "plural": "genderfluid flags",
+    "singular": "genderfluid flag"
+  },
+  "GENDERQUEER": {
+    "default": "genderqueer flag",
+    "plural": "genderqueer flags",
+    "singular": "genderqueer flag"
+  },
+  "AGENDER": {
+    "default": "agender flag",
+    "plural": "agender flags",
+    "singular": "agender flag"
+  },
+  "BIGENDER": {
+    "default": "bigender flag",
+    "plural": "bigender flags",
+    "singular": "bigender flag"
+  },
+  "TRIGENDER": {
+    "default": "trigender flag",
+    "plural": "trigender flags",
+    "singular": "trigender flag"
+  },
+  "DEMIGENDER": {
+    "default": "demigender flag",
+    "plural": "demigender flags",
+    "singular": "demigender flag"
+  },
+  "DEMIGIRL": {
+    "default": "demigirl flag",
+    "plural": "demigirl flags",
+    "singular": "demigirl flag"
+  },
+  "DEMIBOY": {
+    "default": "demiboy flag",
+    "plural": "demiboy flags",
+    "singular": "demiboy flag"
+  },
+  "DEMIFLUID": {
+    "default": "demifluid flag",
+    "plural": "demifluid flags",
+    "singular": "demifluid flag"
+  },
+  "INTERSEX": {
+    "default": "intersex flag",
+    "plural": "intersex flags",
+    "singular": "intersex flag"
+  },
+  "GENDERFAE": {
+    "default": "genderfae flag",
+    "plural": "genderfae flags",
+    "singular": "genderfae flag"
+  },
+  "GENDERFAUN": {
+    "default": "genderfaun flag",
+    "plural": "genderfaun flags",
+    "singular": "genderfaun flag"
+  },
+  "TRANSFEM": {
+    "default": "transfeminine flag",
+    "plural": "transfeminine flags",
+    "singular": "transfeminine flag"
+  },
+  "TRANSMASC": {
+    "default": "transmasculine flag",
+    "plural": "transmasculine flags",
+    "singular": "transmasculine flag"
+  },
+  "XENOGENDER": {
+    "default": "xenogender flag",
+    "plural": "xenogender flags",
+    "singular": "xenogender flag"
+  },
+  "PRIDE": {
+    "default": "pride flag",
+    "plural": "pride flags",
+    "singular": "pride flag"
+  },
+  "LESBIAN": {
+    "default": "lesbian flag",
+    "plural": "lesbian flags",
+    "singular": "lesbian flag"
+  },
+  "GAY": {
+    "default": "gay flag",
+    "plural": "gay flags",
+    "singular": "gay flag"
+  },
+  "BI": {
+    "default": "bisexual flag",
+    "plural": "bisexual flags",
+    "singular": "bisexual flag"
+  },
+  "PAN": {
+    "default": "pansexual flag",
+    "plural": "pansexual flags",
+    "singular": "pansexual flag"
+  },
+  "POLY": {
+    "default": "polysexual flag",
+    "plural": "polysexual flags",
+    "singular": "polysexual flag"
+  },
+  "OMNI": {
+    "default": "omnisexual flag",
+    "plural": "omnisexual flags",
+    "singular": "omnisexual flag"
+  },
+  "ACE": {
+    "default": "asexual flag",
+    "plural": "asexual flags",
+    "singular": "asexual flag"
+  },
+  "ARO": {
+    "default": "aromantic flag",
+    "plural": "aromantic flags",
+    "singular": "aromantic flag"
+  },
+  "AROACE1": {
+    "default": "aromantic asexual flag",
+    "plural": "aromantic asexual flags",
+    "singular": "aromantic asexual flag"
+  },
+  "AROACE2": {
+    "default": "aromantic asexual flag",
+    "plural": "aromantic asexual flags",
+    "singular": "aromantic asexual flag"
+  },
+  "DEMISEXUAL": {
+    "default": "demisexual flag",
+    "plural": "demisexual flags",
+    "singular": "demisexual flag"
+  },
+  "DEMIROMANTIC": {
+    "default": "demiromantic flag",
+    "plural": "demiromantic flags",
+    "singular": "demiromantic flag"
+  },
+  "SAPPHIC": {
+    "default": "sapphic flag",
+    "plural": "sapphic flags",
+    "singular": "sapphic flag"
+  },
+  "ACHILLEAN": {
+    "default": "achillean flag",
+    "plural": "achillean flags",
+    "singular": "achillean flag"
+  },
+  "POLYAM1": {
+    "default": "polyamorous flag",
+    "plural": "polyamorous flags",
+    "singular": "polyamorous flag"
+  },
+  "POLYAM2": {
+    "default": "polyamorous flag",
+    "plural": "polyamorous flags",
+    "singular": "polyamorous flag"
+  },
+  "REDHEART": {
+    "default": "red heart locket",
+    "plural": "red heart lockets",
+    "singular": "red heart locket"
+  },
+  "BLUEHEART": {
+    "default": "blue heart locket",
+    "plural": "blue heart lockets",
+    "singular": "blue heart locket"
+  },
+  "YELLOWHEART": {
+    "default": "yellow heart locket",
+    "plural": "yellow heart lockets",
+    "singular": "yellow heart lockets"
+  },
+  "CYANHEART": {
+    "default": "cyan heart locket",
+    "plural": "cyan heart lockets",
+    "singular": "cyan heart locket"
+  },
+  "ORANGEHEART": {
+    "default": "orange heart locket",
+    "plural": "orange heart lockets",
+    "singular": "orange heart locket"
+  },
+  "LIMEHEART": {
+    "default": "lime heart locket",
+    "plural": "lime heart lockets",
+    "singular": "lime heart locket"
+  },
+  "GREENHEART": {
+    "default": "green heart locket",
+    "plural": "green heart lockets",
+    "singular": "green heart locket"
+  },
+  "MULTIHEART": {
+    "default": "multicolored heart locket",
+    "plural": "multicolored heart lockets",
+    "singular": "multicolored heart locket"
+  },
+  "BLACKHEART": {
+    "default": "black heart locket",
+    "plural": "black heart lockets",
+    "singular": "black heart locket"
+  },
+  "GRAYHEART": {
+    "default": "gray heart locket",
+    "plural": "gray heart lockets",
+    "singular": "gray heart locket"
+  },
+  "WHITEHEART": {
+    "default": "white heart locket",
+    "plural": "white heart lockets",
+    "singular": "white heart lockets"
+  },
+  "HOTPINKHEART": {
+    "default": "hot pink heart locket",
+    "plural": "hot pink heart lockets",
+    "singular": "hot pink heart locket"
+  },
+  "PURPLEHEART": {
+    "default": "purple heart locket",
+    "plural": "purple heart lockets",
+    "singular": "purple heart locket"
+  },
+  "PINKHEART": {
+    "default": "pink heart locket",
+    "plural": "pink heart lockets",
+    "singular": "pink heart locket"
+  },
+  "INDIGOLOCKET": {
+    "default": "indigo heart locket",
+    "plural": "indigo heart lockets",
+    "singular": "indigo heart locket"
+  },
+  "SUNNECKLACE": {
+    "default": "sun necklace",
+    "plural": "sun necklaces",
+    "singular": "sun necklace"
+  },
+  "MOONNECKLACE": {
+    "default": "moon necklace",
+    "plural": "moon necklaces",
+    "singular": "moon necklace"
+  },
+  "EVILEYE": {
+    "default": "evil eye necklace",
+    "plural": "evil eye necklaces",
+    "singular": "evil eye necklace"
+  },
+  "YINYANG": {
+    "default": "yin and yang necklace",
+    "plural": "yin and yang necklaces",
+    "singular": "yin and yang necklace"
+  },
+  "RAINBOWNECKLACE": {
+    "default": "rainbow necklace",
+    "plural": "rainbow necklaces",
+    "singular": "rainbow necklace"
+  },
+  "GARNET": {
+    "default": "garnet birthstone necklace",
+    "plural": "garnet birthstone necklaces",
+    "singular": "garnet birthstone necklace"
+  },
+  "AMETHYST": {
+    "default": "amethyst birthstone necklace",
+    "plural": "amethyst birthstone necklaces",
+    "singular": "amethyst birthstone necklace"
+  },
+  "AQUAMARINE": {
+    "default": "aquamarine birthstone necklace",
+    "plural": "aquamarine birthstone necklaces",
+    "singular": "aquamarine birthstone necklace"
+  },
+  "DIAMOND": {
+    "default": "diamond birthstone necklace",
+    "plural": "diamond birthstone necklaces",
+    "singular": "diamond birthstone necklace"
+  },
+  "EMERALD": {
+    "default": "emerald birthstone necklace",
+    "plural": "emerald birthstone necklaces",
+    "singular": "emerald birthstone necklace"
+  },
+  "ALEXANDRITE": {
+    "default": "alexandrite birthstone necklace",
+    "plural": "alexandrite birthstone necklaces",
+    "singular": "alexandrite birthstone necklace"
+  },
+  "RUBY": {
+    "default": "ruby birthstone necklace",
+    "plural": "ruby birthstone necklaces",
+    "singular": "ruby birthstone necklace"
+  },
+  "PERIDOT": {
+    "default": "peridot birthstone necklace",
+    "plural": "peridot birthstone necklaces",
+    "singular": "peridot birthstone necklaces"
+  },
+  "SAPPHIRE": {
+    "default": "sapphire birthstone necklace",
+    "plural": "sapphire birthstone necklaces",
+    "singular": "sapphire birthstone necklace"
+  },
+  "TOURMALINE": {
+    "default": "tourmaline birthstone necklace",
+    "plural": "tourmaline birthstone necklaces",
+    "singular": "tourmaline birthstone necklace"
+  },
+  "TOPAZ": {
+    "default": "topaz birthstone necklace",
+    "plural": "topaz birthstone necklaces",
+    "singular": "topaz birthstone necklace"
+  },
+  "TURQUOISE": {
+    "default": "turquoise birthstone necklace",
+    "plural": "turquoise birthstone necklaces",
+    "singular": "turquoise birthstone necklace"
   }
 }
